@@ -1,0 +1,8 @@
+{
+  "name": "fakeswords-API",
+  "version": "1.0.0",
+  "description": "A fake swords api for CRUD practice",
+  "main": "app.js",
+  "author": "Brett Lyons",
+  "license": "ISC"
+}
